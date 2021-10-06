@@ -26,3 +26,7 @@ There is an input data and gene set example file ('example_data.csv' and 'exampl
 ## For more information
 
 Korotkevich G, Sukhov V, Budin N, Shpak B, Artyomov MA, Sergushichev A. Fast gene set enrichment analysis. bioRxiv, 2021, doi: https://doi.org/10.1101/060012.
+
+## Update news
+
+Will implement [GSEA_R](https://github.com/GSEA-MSigDB/GSEA_R) in the future. 
